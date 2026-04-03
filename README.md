@@ -1,2 +1,2 @@
 # model-deeplearning-computer-vision
-Export model dari Teachable Machine
+Export model fromTeachable Machine
